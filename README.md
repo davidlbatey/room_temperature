@@ -2,7 +2,7 @@
 
 First Arduino project
 
-My parents house temperature wildly fluctuates. This is the code for seeting up
+My parents house temperature wildly fluctuates. This is the code for setting up
 an arduino with a light to show the room temperature. It uses a temperature sensor
 and an RGB LED to show the rooms temperature.
 
